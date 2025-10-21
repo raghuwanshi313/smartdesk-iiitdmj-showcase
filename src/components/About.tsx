@@ -10,7 +10,7 @@ const About = () => {
             Project Overview
           </h2>
           <p className="text-lg text-muted-foreground text-center leading-relaxed mb-8">
-            Smart Desk is an innovative workspace designed to improve productivity and comfort 
+            Touch Screen Foldable Mat for Workspace Evolution is an innovative workspace designed to improve productivity and comfort 
             using smart sensors and automation. It offers an intelligent solution to monitor 
             posture, manage lighting, and create a healthier work environment — integrating 
             technology seamlessly into everyday life.

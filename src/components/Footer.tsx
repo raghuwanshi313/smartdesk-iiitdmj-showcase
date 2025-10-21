@@ -3,7 +3,7 @@ const Footer = () => {
     <footer className="py-8 border-t border-border">
       <div className="section-container">
         <p className="text-center text-sm text-muted-foreground">
-          © 2025 Smart Desk | Developed by Team IIITDMJ
+          © 2025 Touch Screen Foldable Mat | Developed by Team IIITDMJ
         </p>
       </div>
     </footer>

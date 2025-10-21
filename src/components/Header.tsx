@@ -17,7 +17,7 @@ const Header = () => {
             </div>
           </div>
           <div className="text-right">
-            <h2 className="text-lg sm:text-xl font-bold text-primary">Smart Desk</h2>
+            <h2 className="text-lg sm:text-xl font-bold text-primary">Touch Screen Foldable Mat</h2>
           </div>
         </div>
       </div>
