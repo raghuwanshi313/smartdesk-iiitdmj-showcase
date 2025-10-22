@@ -10,10 +10,9 @@ const About = () => {
             Project Overview
           </h2>
           <p className="text-lg text-muted-foreground text-center leading-relaxed mb-8">
-            Touch Screen Foldable Mat for Workspace Evolution is an innovative workspace designed to improve productivity and comfort 
-            using smart sensors and automation. It offers an intelligent solution to monitor 
-            posture, manage lighting, and create a healthier work environment — integrating 
-            technology seamlessly into everyday life.
+            We are creating a Touch screen foldable mat for workspace evolution. It is an Innovative approach 
+            designed to improve the productivity of the students and office workers by integrating sensors, 
+            microprocessors and numerous other technologies seamlessly into everyday life.
           </p>
 
           <Card className="p-6 mb-12 bg-secondary border-border">
