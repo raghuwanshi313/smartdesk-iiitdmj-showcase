@@ -7,11 +7,14 @@ const Hero = () => {
         <div className="max-w-6xl mx-auto fade-in">
           <div className="text-center mb-12">
             <div className="inline-block mb-4 px-4 py-2 bg-primary/10 rounded-full">
-              <p className="text-sm font-medium text-primary">Student Innovation Project</p>
+              <p className="text-sm font-medium text-primary">IIITDMJ Innovation Project</p>
             </div>
-            <h1 className="text-4xl sm:text-5xl lg:text-6xl font-bold text-foreground mb-6">
-              Touch Screen Foldable Mat for Workspace Evolution
+            <h1 className="text-5xl sm:text-6xl lg:text-7xl font-bold text-primary mb-4 tracking-tight">
+              CHANAKYA
             </h1>
+            <h2 className="text-2xl sm:text-3xl lg:text-4xl font-semibold text-foreground mb-6">
+              Touch Screen Foldable Mat for Workspace Evolution
+            </h2>
             <p className="text-xl sm:text-2xl text-muted-foreground mb-4 font-light">
               Reimagining workspaces through smart innovation
             </p>
