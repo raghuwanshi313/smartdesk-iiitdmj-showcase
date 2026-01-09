@@ -10,14 +10,14 @@ const Header = () => {
               <Building2 className="w-6 h-6 text-primary" />
             </div>
             <div>
-              <h1 className="text-sm sm:text-base font-semibold text-foreground leading-tight">
-                IIITDMJ
+              <h1 className="text-lg sm:text-xl font-bold text-primary leading-tight">
+                CHANAKYA
               </h1>
-              <p className="text-xs text-muted-foreground">Innovation Project</p>
+              <p className="text-xs text-muted-foreground">Touch Screen Foldable Mat</p>
             </div>
           </div>
           <div className="text-right">
-            <h2 className="text-lg sm:text-xl font-bold text-primary">Touch Screen Foldable Mat</h2>
+            <p className="text-sm text-muted-foreground">IIITDMJ Innovation</p>
           </div>
         </div>
       </div>
