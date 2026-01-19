@@ -2,7 +2,7 @@ import { Building2, Paintbrush } from "lucide-react";
 
 import { Button } from "@/components/ui/button";
 
-const PAINT_APP_URL = "https://jspaint.app/";
+const PAINT_APP_URL = "https://edp-raspberry-pi.vercel.app/";
 
 const Header = () => {
   return (
