@@ -1,4 +1,8 @@
-import { Building2 } from "lucide-react";
+import { Building2, Paintbrush } from "lucide-react";
+
+import { Button } from "@/components/ui/button";
+
+const PAINT_APP_URL = "https://jspaint.app/";
 
 const Header = () => {
   return (
@@ -16,8 +20,16 @@ const Header = () => {
               <p className="text-xs text-muted-foreground">Touch Screen Foldable Mat</p>
             </div>
           </div>
-          <div className="text-right">
-            <p className="text-sm text-muted-foreground">IIITDMJ Innovation</p>
+          <div className="flex items-center gap-3">
+            <Button asChild variant="outline" size="sm">
+              <a href={PAINT_APP_URL} target="_blank" rel="noreferrer">
+                <Paintbrush />
+                Paint
+              </a>
+            </Button>
+            <div className="text-right">
+              <p className="text-sm text-muted-foreground">IIITDMJ Innovation</p>
+            </div>
           </div>
         </div>
       </div>
